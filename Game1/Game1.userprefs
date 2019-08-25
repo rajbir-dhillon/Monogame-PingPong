@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{48087A71-EC58-4D7B-BD66-A58ABFA1E55E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game1/Game1.cs">
+    <Files>
+      <File FileName="Game1/Content/font.spritefont" Line="20" Column="13" />
+      <File FileName="Game1/Game1.cs" Line="183" Column="22" />
+      <File FileName="Game1/Ball.cs" Line="83" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Game1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
